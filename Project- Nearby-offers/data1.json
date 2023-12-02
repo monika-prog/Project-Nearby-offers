@@ -1,0 +1,184 @@
+{
+    "storesNearMe": [
+        {
+            "name": "Big Bazar",
+            "discount": "20% discount",
+            "category": "House Hold",
+            "coords": {
+                "lng": 81.68413403988355,
+                "lat": 21.24099918569173
+            }
+        },
+        {
+            "name": "Trends",
+            "discount": "10% discount",
+            "category": "Clothing",
+            "coords": {
+                "lng": 81.68773471290376,
+                "lat": 21.275422676403046
+            }
+        },
+        {
+            "name": "Shubh Kadam",
+            "discount": "15% discount",
+            "category": "Foot Wear",
+            "coords": {
+                "lng": 81.65100816871994,
+                "lat": 21.23295759264871
+            }
+        },
+        {
+            "name": "Fashion House",
+            "discount": "10% discount",
+            "category": "Clothing",
+            "coords": {
+                "lng": 81.64952505523019,
+                "lat": 21.253179081604028
+            }
+        },
+        {
+            "name": "Paradise",
+            "discount": "10% discount",
+            "category": "Clothing",
+            "coords": {
+                "lng": 81.63608903988357,
+                "lat": 21.24376338167105
+            }
+        },
+        {
+            "name": "Lotus Electronics",
+            "discount": "20% discount",
+            "category": "Electronics",
+            "coords": {
+                "lng": 81.64091685586264,
+                "lat": 21.24916224774892
+            }
+        },
+        {
+            "name": "Croma",
+            "discount": "10% discount",
+            "category": "Electronics",
+            "coords": {
+                "lng": 81.6788201668638,
+                "lat": 21.23890229037212
+            }
+        },
+        {
+            "name": "Reliance Digital",
+            "discount": "12% discount",
+            "category": "Electronics",
+            "coords": {
+                "lng": 81.65826367780856,
+                "lat": 21.233701900238973
+            }
+        },
+        {
+            "name": "Shree Shivam",
+            "discount": "10% discount",
+            "category": "Clothing",
+            "coords": {
+                "lng": 81.64775435337383,
+                "lat": 21.251579471058747
+            }
+        },
+        {
+            "name": "Baradiyas Home Pride",
+            "discount": "10% discount",
+            "category": "Home Furnishings",
+            "coords": {
+                "lng": 81.64756595337394,
+                "lat": 21.25712646686031
+            }
+        },
+        {
+            "name": "Vishal Mega Mart",
+            "discount": "50% discount",
+            "category": "Home Furnishings",
+            "coords": {
+                "lng": 81.64502779307072,
+                "lat": 21.22522388845745
+            }
+        },
+        {
+            "name": "Vishal Store",
+            "discount": "25% discount",
+            "category": "Home Furnishings",
+            "coords": {
+                "lng": 81.60915052870078,
+                "lat": 21.246017363094378
+            }
+        },
+        {
+            "name": "Senco",
+            "discount": "5% discount",
+            "category": "Accessories",
+            "coords": {
+                "lng": 81.63665091984988,
+                "lat": 21.24506329587972
+            }
+        },
+        {
+            "name": "P C Jwellers",
+            "discount": "5% discount",
+            "category": "Accessories",
+            "coords": {
+                "lng": 81.63252446686374,
+                "lat": 21.23837608850152
+            }
+        },
+        {
+            "name": "Archies",
+            "discount": "15% discount",
+            "category": "Accessories",
+            "coords": {
+                "lng": 81.62895337313323,
+                "lat": 21.2515749859209
+            }
+        },
+        {
+            "name": "Titan",
+            "discount": "15% discount",
+            "category": "Accessories",
+            "coords": {
+                "lng": 81.65897493906826,
+                "lat": 21.229510043030235
+            }
+        },
+        {
+            "name": "Tulsi Gift Shop",
+            "discount": "35% discount",
+            "category": "Accessories",
+            "coords": {
+                "lng": 81.66309416212943,
+                "lat": 21.23197914585425
+            }
+        },
+        {
+            "name": "Anmol Super Bazar",
+            "discount": "25% discount",
+            "category": "Accessories",
+            "coords": {
+                "lng": 81.66625792372163,
+                "lat": 21.227685568211218
+            }
+        },
+        {
+            "name": "Tantraa",
+            "discount": "20% discount",
+            "category": "Electronics",
+            "coords": {
+                "lng": 81.63762715523004,
+                "lat": 21.244746779527556
+            }
+        },
+        {
+            "name": "Ababa",
+            "discount": "10% discount",
+            "category": "Electronics",
+            "coords": {
+                "lng": 81.665612624537,
+                "lat": 21.239974887261162
+            }
+        }
+    ]
+}

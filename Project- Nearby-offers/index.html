@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="reset.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet" />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v2.3.1/mapbox-gl.css' rel='stylesheet' />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="new.js" defer></script>
+  <script src="data-plotter.js"></script>
+  <title>DEALS NEAR ME</title>
+</head>
+
+<body>
+
+
+  <div class="box">
+    <div class="id">
+      <label for="radius">Radius</label>
+      <input name="radius" id="radius" type="number" min=1 oninput="load()" />
+    </div>
+
+    <div class="xy">
+      <label for="category">Category</label>
+      <select name="category" id="category" oninput="load()">
+        <option value="none" selected hidden disabled>Choose Category</option>
+        <option value="Clothing">Clothing</option>
+        <option value="Footwear">Footwear</option>
+        <option value="Electronics">Electronics</option>
+        <option value="Home Furnishings">Home Furnishings</option>
+        <option value="Accessories">Accessories</option>
+
+      </select>
+    </div>
+
+  </div>
+
+
+  <div id='map'>
+
+  </div>
+
+  <div id="instructions"></div>
+
+  <footer>
+
+  </footer>
+
+</body>
+
+</html>
